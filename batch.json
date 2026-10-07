@@ -1,0 +1,12 @@
+{
+  "title": "Certificate of Completion",
+  "event_name": "Python Bootcamp 2026",
+  "issuer": "Acme Academy",
+  "issue_date": "2026-10-01",
+  "recipients": [
+    {"name": "Asha Verma", "email": "asha@example.com", "achievement": "with distinction"},
+    {"name": "Rohan Mehta", "email": "rohan@example.com"},
+    {"name": "Priya Nair", "email": "priya@example.com"},
+    {"name": "", "email": "not-an-email"}
+  ]
+}
